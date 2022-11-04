@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Search</name>
+   <tag></tag>
+   <elementGuidId>c5e1231b-a9fb-4a61-afc5-0e0b9bf23730</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.noo-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='noo-site']/header/div[2]/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fb58f54d-1bdf-446c-b615-b96495a99c9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noo-search</value>
+      <webElementGuid>a7bbfdce-69d3-4be9-b73d-1e40a4d67552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>39149098-d2dc-4802-b805-019b84b24452</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        
+                        Search                    </value>
+      <webElementGuid>67cc05f1-d79b-45a7-921a-80f46ded9583</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;noo-site&quot;)/header[@class=&quot;noo-header fixed_top header-2&quot;]/div[@class=&quot;navbar-wrapper&quot;]/div[@class=&quot;navbar navbar-default&quot;]/div[@class=&quot;noo-container&quot;]/div[@class=&quot;noo-navbar-header&quot;]/a[@class=&quot;noo-search&quot;]</value>
+      <webElementGuid>c8377ca0-23de-4f07-a0d7-13f833745471</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0fa92e2a-fabf-4199-84d9-bc48cc0be193</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noo-search</value>
+      <webElementGuid>7e221427-5161-44b4-86aa-9a16e260dc4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>5f2f8f06-0ac0-4378-8f0c-83d567357ce2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        
+                        Search                    </value>
+      <webElementGuid>5232b9c0-7345-4daf-8c2a-4bd7b2c79867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;noo-site&quot;)/header[@class=&quot;noo-header fixed_top header-2&quot;]/div[@class=&quot;navbar-wrapper&quot;]/div[@class=&quot;navbar navbar-default&quot;]/div[@class=&quot;noo-container&quot;]/div[@class=&quot;noo-navbar-header&quot;]/a[@class=&quot;noo-search&quot;]</value>
+      <webElementGuid>8882d826-681e-4cdf-9ad5-db120ee0e973</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='noo-site']/header/div[2]/div/div/div/a</value>
+      <webElementGuid>c22869e1-0960-4ecc-84b6-3cdff01cc109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/following::a[1]</value>
+      <webElementGuid>657986dc-cb09-4d90-8037-9d5461fb1b20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[1]/following::a[2]</value>
+      <webElementGuid>f912e508-082f-45c6-a8d8-137e498e669c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[1]/preceding::a[2]</value>
+      <webElementGuid>d5d22dc1-3442-43f1-b75d-e203049b1d5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
+      <webElementGuid>9f019a7f-afbf-4f84-8241-702b7c89320d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#')]</value>
+      <webElementGuid>4ea13b44-3309-4cf7-a6fe-3df441e0c210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a</value>
+      <webElementGuid>82f00b58-da9d-436f-a384-0d4a10f4c77f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '
+                        
+                        Search                    ' or . = '
+                        
+                        Search                    ')]</value>
+      <webElementGuid>29eb6c30-aaba-4de6-bae7-ecaf3ec63933</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

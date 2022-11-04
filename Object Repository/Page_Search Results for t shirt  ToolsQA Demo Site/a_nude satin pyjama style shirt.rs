@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_nude satin pyjama style shirt</name>
+   <tag></tag>
+   <elementGuidId>cf80b77f-e445-417d-aee6-8d5346866f05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.noo-product-item.one.noo-product-sm-4.not_featured.post-1418.product.type-product.status-publish.has-post-thumbnail.product_cat-shirt.product_tag-shirt.product_tag-women.has-featured.instock.shipping-taxable.purchasable.product-type-variable > div.noo-product-inner > h3 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='noo-site']/div[2]/div[2]/div/div/div[7]/div/h3/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9ddc7779-83c3-42f6-b880-de7dc669fffb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://shop.demoqa.com/product/nude-satin-pyjama-style-shirt/</value>
+      <webElementGuid>f1845b54-78ea-40e0-a604-ef346ee1e85a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>nude satin pyjama style shirt</value>
+      <webElementGuid>ace6cecd-3cd0-4758-a75c-2f25ebaaae03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;noo-site&quot;)/div[@class=&quot;noo-container-shop noo-shop-wrap&quot;]/div[@class=&quot;noo-row&quot;]/div[@class=&quot;noo-md-12 one&quot;]/div[@class=&quot;products noo-row&quot;]/div[@class=&quot;noo-product-item one noo-product-sm-4 not_featured post-1418 product type-product status-publish has-post-thumbnail product_cat-shirt product_tag-shirt product_tag-women has-featured  instock shipping-taxable purchasable product-type-variable&quot;]/div[@class=&quot;noo-product-inner&quot;]/h3[1]/a[1]</value>
+      <webElementGuid>86bfed43-601a-4dc3-b433-e20bfeeea614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>69800df1-bbe0-4c80-92e9-644c37f72325</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://shop.demoqa.com/product/nude-satin-pyjama-style-shirt/</value>
+      <webElementGuid>06e2eac7-55da-4299-a25a-f709570ff439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>nude satin pyjama style shirt</value>
+      <webElementGuid>e7071ecd-b455-4451-9dcb-d99c2ba081a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;noo-site&quot;)/div[@class=&quot;noo-container-shop noo-shop-wrap&quot;]/div[@class=&quot;noo-row&quot;]/div[@class=&quot;noo-md-12 one&quot;]/div[@class=&quot;products noo-row&quot;]/div[@class=&quot;noo-product-item one noo-product-sm-4 not_featured post-1418 product type-product status-publish has-post-thumbnail product_cat-shirt product_tag-shirt product_tag-women has-featured  instock shipping-taxable purchasable product-type-variable&quot;]/div[@class=&quot;noo-product-inner&quot;]/h3[1]/a[1]</value>
+      <webElementGuid>0c60a6c5-8c54-4d64-ada9-73bb8d603154</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='noo-site']/div[2]/div[2]/div/div/div[7]/div/h3/a</value>
+      <webElementGuid>97dae7a5-b042-4e90-be15-d7a51244d3f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'nude satin pyjama style shirt')]</value>
+      <webElementGuid>63d34133-02c5-4483-9a90-cf7993c89a8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select options'])[6]/following::a[1]</value>
+      <webElementGuid>cfcc7029-a524-4a5c-87b0-11fa7ace166c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[12]/following::a[2]</value>
+      <webElementGuid>5d204d5d-90dc-4061-9970-304153ddbed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shirt'])[3]/preceding::a[1]</value>
+      <webElementGuid>9b61e046-356b-472e-81ee-5be81ba9db3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compare'])[7]/preceding::a[2]</value>
+      <webElementGuid>bf3ca71d-8e7c-4191-84b1-2246e23babb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='nude satin pyjama style shirt']/parent::*</value>
+      <webElementGuid>a553a062-f199-427f-86b8-d4e439a307ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://shop.demoqa.com/product/nude-satin-pyjama-style-shirt/')]</value>
+      <webElementGuid>065208be-8996-49b5-9da1-3e2dfc430db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/h3/a</value>
+      <webElementGuid>6d772bba-c611-49e7-a7c5-2f63663980a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://shop.demoqa.com/product/nude-satin-pyjama-style-shirt/' and (text() = 'nude satin pyjama style shirt' or . = 'nude satin pyjama style shirt')]</value>
+      <webElementGuid>ee0c0641-fb6c-4bce-8553-e0fa12d24a92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[16]/following::a[2]</value>
+      <webElementGuid>10af9fc4-5eec-444d-8324-f2019f75cca8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Place order_blockUI blockOverlay</name>
+   <tag></tag>
+   <elementGuidId>41915050-fa9d-4dc7-b319-d3c55b000c4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.blockUI.blockOverlay</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-7']/div/div/form[2]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d576533a-5a22-43f2-b089-3073cbddf477</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>blockUI blockOverlay</value>
+      <webElementGuid>07b44705-84f1-4a56-ad7e-8224a256c16e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-7&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/form[@class=&quot;checkout woocommerce-checkout processing&quot;]/div[@class=&quot;blockUI blockOverlay&quot;]</value>
+      <webElementGuid>d452a16d-8dcd-4081-934f-6df2dce19db9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-7']/div/div/form[2]/div[3]</value>
+      <webElementGuid>58521c0e-cbda-46ad-b923-50bd23b885dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form[2]/div[3]</value>
+      <webElementGuid>a0839114-01d3-448a-a87e-4dbfc06c1532</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
